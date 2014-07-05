@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Potpourri::VERSION
   spec.authors       = ["GardenTree"]
   spec.email         = ["takahiro.ueki@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = 'a promiscuous gathering'
+  spec.description   = ''
   spec.homepage      = ""
   spec.license       = "MIT"
 
